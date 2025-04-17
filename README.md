@@ -1,7 +1,7 @@
-🧠 Tic Tac Toe AI – Play Against the Computer
+🧠 ##Tic Tac Toe AI – Play Against the Computer
 A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, enhanced with a smart AI opponent using the Minimax algorithm. This single-player version lets you challenge your brain and try to outsmart the computer!
 
-🎮 Features
+🎮 ##Features
 ✅ Single-player gameplay vs computer
 
 🤖 AI implemented using the Minimax algorithm for unbeatable strategy
